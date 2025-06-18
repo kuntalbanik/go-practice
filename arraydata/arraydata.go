@@ -8,6 +8,6 @@ func Array() {
 	Name[1] = "Jane"
 	fmt.Println(Name)
 
-	var numbers = [5]int{1, 2, 3, 4}
+	var numbers = []int{1, 2, 3, 4, 5, 6, 7, 8}
 	fmt.Println(numbers)
 }
